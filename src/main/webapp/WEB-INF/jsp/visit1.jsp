@@ -13,5 +13,7 @@
         The site <%= application.getInitParameter("title")%>
         was visited for <jsp:getProperty name="visit" property="count" />
         times.
+        
+        hihihi
     </body>
 </html>
